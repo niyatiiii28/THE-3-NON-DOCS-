@@ -1,0 +1,110 @@
+[
+  {
+    "id": "P001", "name": "Arjun Mehta", "age": 34, "has_history": true,
+    "chief_complaint": "Crushing chest pain radiating to left arm",
+    "self_reported_symptoms": ["chest pain", "sweating"],
+    "vitals": {"heart_rate": 118, "resp_rate": 24, "spo2": 93, "temp_c": 37.0, "bp_systolic": 88}
+  },
+  {
+    "id": "P002", "name": "Riya Shah", "age": 3, "has_history": true,
+    "chief_complaint": "Fever and fussiness since this morning",
+    "self_reported_symptoms": ["fever"],
+    "vitals": {"heart_rate": 150, "resp_rate": 34, "spo2": 97, "temp_c": 38.6, "bp_systolic": 92}
+  },
+  {
+    "id": "P003", "name": "Harold Fenn", "age": 78, "has_history": true,
+    "chief_complaint": "Feeling generally unwell, family brought him in",
+    "self_reported_symptoms": ["generalized weakness", "just feels off"],
+    "vitals": {"heart_rate": 102, "resp_rate": 22, "spo2": 91, "temp_c": 37.9, "bp_systolic": 108}
+  },
+  {
+    "id": "P004", "name": "Unknown Male", "age": 41, "has_history": false,
+    "chief_complaint": "Found collapsed outside, unresponsive on arrival",
+    "self_reported_symptoms": ["unresponsive"],
+    "vitals": {"heart_rate": null, "resp_rate": 6, "spo2": 78, "temp_c": null, "bp_systolic": 70}
+  },
+  {
+    "id": "P005", "name": "Priya Nair", "age": 27, "has_history": true,
+    "chief_complaint": "Twisted ankle playing badminton",
+    "self_reported_symptoms": ["ankle pain", "swelling"],
+    "vitals": {"heart_rate": 78, "resp_rate": 16, "spo2": 99, "temp_c": 36.8, "bp_systolic": 118}
+  },
+  {
+    "id": "P006", "name": "Tomas Weber", "age": 55, "has_history": false,
+    "chief_complaint": "Vague chest discomfort, hard to describe, comes and goes",
+    "self_reported_symptoms": ["vague pain", "chest discomfort"],
+    "vitals": {"heart_rate": 88, "resp_rate": 18, "spo2": 96, "temp_c": 36.9, "bp_systolic": 132}
+  },
+  {
+    "id": "P007", "name": "Aanya Kapoor", "age": 6, "has_history": true,
+    "chief_complaint": "Difficulty breathing, wheezing, known asthmatic",
+    "self_reported_symptoms": ["shortness of breath", "wheezing"],
+    "vitals": {"heart_rate": 138, "resp_rate": 38, "spo2": 90, "temp_c": 37.2, "bp_systolic": 96}
+  },
+  {
+    "id": "P008", "name": "Grace Lin", "age": 82, "has_history": true,
+    "chief_complaint": "Sudden slurred speech and facial droop noticed by daughter",
+    "self_reported_symptoms": ["slurred speech", "facial droop"],
+    "vitals": {"heart_rate": 96, "resp_rate": 20, "spo2": 95, "temp_c": 36.7, "bp_systolic": 176}
+  },
+  {
+    "id": "P009", "name": "Deepak Rao", "age": 45, "has_history": true,
+    "chief_complaint": "Lower back pain after lifting furniture, no red flags",
+    "self_reported_symptoms": ["back pain"],
+    "vitals": {"heart_rate": 74, "resp_rate": 14, "spo2": 98, "temp_c": 36.6, "bp_systolic": 122}
+  },
+  {
+    "id": "P010", "name": "Unnamed Infant", "age": 1, "has_history": false,
+    "chief_complaint": "Non-stop crying, parents report baby 'just not acting right'",
+    "self_reported_symptoms": ["just feels off"],
+    "vitals": {"heart_rate": 170, "resp_rate": 42, "spo2": 94, "temp_c": 39.1, "bp_systolic": null}
+  },
+  {
+    "id": "P011", "name": "Marta Costa", "age": 68, "has_history": true,
+    "chief_complaint": "Routine follow-up for medication refill",
+    "self_reported_symptoms": ["fatigue"],
+    "vitals": {"heart_rate": 72, "resp_rate": 16, "spo2": 97, "temp_c": 36.9, "bp_systolic": 128}
+  },
+  {
+    "id": "P012", "name": "Sam Okafor", "age": 19, "has_history": false,
+    "chief_complaint": "Severe allergic reaction after eating peanuts, lips swelling",
+    "self_reported_symptoms": ["severe allergic reaction", "swelling"],
+    "vitals": {"heart_rate": 128, "resp_rate": 30, "spo2": 89, "temp_c": 37.0, "bp_systolic": 84}
+  },
+  {
+    "id": "P013", "name": "Elena Petrov", "age": 71, "has_history": true,
+    "chief_complaint": "Mild headache for two days, otherwise okay",
+    "self_reported_symptoms": ["headache"],
+    "vitals": {"heart_rate": 80, "resp_rate": 16, "spo2": 96, "temp_c": 36.7, "bp_systolic": 138}
+  },
+  {
+    "id": "P014", "name": "Unknown Female", "age": 29, "has_history": false,
+    "chief_complaint": "Brought in after car accident, alert but says she 'feels fine'",
+    "self_reported_symptoms": ["vague pain"],
+    "vitals": {"heart_rate": 110, "resp_rate": 22, "spo2": 95, "temp_c": 36.8, "bp_systolic": 98}
+  },
+  {
+    "id": "P015", "name": "Ibrahim Al-Sayed", "age": 8, "has_history": true,
+    "chief_complaint": "Fell off bike, arm looks deformed, crying in pain",
+    "self_reported_symptoms": ["arm pain", "deformity"],
+    "vitals": {"heart_rate": 128, "resp_rate": 26, "spo2": 98, "temp_c": 37.0, "bp_systolic": 104}
+  },
+  {
+    "id": "P016", "name": "Nora Kim", "age": 52, "has_history": true,
+    "chief_complaint": "Sore throat and mild cough for three days",
+    "self_reported_symptoms": ["sore throat", "cough"],
+    "vitals": {"heart_rate": 84, "resp_rate": 16, "spo2": 98, "temp_c": 37.4, "bp_systolic": 124}
+  },
+  {
+    "id": "P017", "name": "Walter Higgins", "age": 88, "has_history": true,
+    "chief_complaint": "Low-grade temp, slightly confused per care home staff",
+    "self_reported_symptoms": ["just feels off"],
+    "vitals": {"heart_rate": 98, "resp_rate": 24, "spo2": 92, "temp_c": 37.9, "bp_systolic": 100}
+  },
+  {
+    "id": "P018", "name": "Chloe Martin", "age": 22, "has_history": false,
+    "chief_complaint": "Reports suicidal ideation, currently calm and cooperative",
+    "self_reported_symptoms": ["suicidal ideation"],
+    "vitals": {"heart_rate": 82, "resp_rate": 16, "spo2": 99, "temp_c": 36.8, "bp_systolic": 118}
+  }
+]
