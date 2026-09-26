@@ -6,6 +6,11 @@ from datetime import datetime, timedelta
 import pandas as pd
 import streamlit as st
 
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_PATH = BASE_DIR / "data" / "simulated_patients.json"
+
 from triage_engine import (
     score_patient, needs_reassessment, new_audit_entry,
     SEVERITY_LABELS, SAFE_WAIT_MINUTES, REASSESS_INTERVAL_MINUTES,
@@ -14,7 +19,7 @@ from triage_engine import (
 
 st.set_page_config(page_title="PatientTriage.ai", layout="wide", page_icon="🏥")
 
-DATA_PATH = "data/simulated_patients.json"
+# DATA_PATH = "data/simulated_patients.json"
 
 SEVERITY_COLOR = {1: "#b30000", 2: "#e8590c", 3: "#f2b705", 4: "#2f9e44", 5: "#1971c2"}
 
