@@ -1,7 +1,7 @@
 # PatientTriage.ai
 ### Rules-based, age-adjusted, uncertainty-aware triage assistant for hospital emergency departments
 
-> ** Live Demo:** [Try PatientTriage.ai](https://3-non-docs.streamlit.app/)
+<h2>🚀 <a href="YOUR_STREAMLIT_URL">LIVE DEMO — TRY PATIENTTRIAGE.AI</a></h2>
 
 AI-assisted emergency department triage support system designed to help clinicians prioritize and route patients while keeping clinical judgment in the loop.
 **Accenture Innovation Challenge 2026 — Round 2 Prototype**
